@@ -1,2 +1,3 @@
 # hoshmandlab-html
-https://app.netlify.com/sites/charming-marzipan-9dc192/overview
+
+https://charming-marzipan-9dc192.netlify.app/
